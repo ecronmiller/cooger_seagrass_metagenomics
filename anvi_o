@@ -1,0 +1,7 @@
+## Linux scripts for running Anvi'o
+
+# activate anvi'o conda environment
+conda activate anvio-9
+
+# to test the anvi'o environment
+anvi-self-test
