@@ -1,0 +1,515 @@
+"","Method","Num contigs","GC perc","Tax 16S","Disparity","Completeness","Contamination"
+"Seagrass.metabat2.257.fa_sub.contigs","DAS",799,40.69,"",0.004,100,78.18
+"Seagrass.concoct.387.fa_sub.contigs","DAS",766,33.91,"superkingdom:Archaea",0,100,24.18
+"Seagrass.metabat2.347.fa.contigs","DAS",497,43.26,"superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae",0,100,8.23
+"Seagrass.metabat2.57.fa_sub.contigs","DAS",1131,37.09,"",0.018,100,67.88
+"Seagrass.concoct.270.fa.contigs","DAS",1694,57.07,"",0.03,100,51.57
+"Seagrass.metabat2.131.fa_sub.contigs","DAS",584,69.46,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinomycetota;class:Actinomycetes;order:Actinomycetales",0.026,99.76,61.17
+"Seagrass.concoct.313.fa_sub.contigs","DAS",1692,38.98,"",0.203,99.67,26.64
+"Seagrass.concoct.225.fa.contigs","DAS",225,48.08,"superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae;genus:Robiginitalea",0,99.22,1.86
+"Seagrass.metabat2.195.fa_sub.contigs","DAS",290,37.58,"",0,99.01,63.2
+"Seagrass.metabat2.431.fa_sub.contigs","DAS",583,62.55,"superkingdom:Bacteria",0,98.83,22.75
+"Seagrass.metabat2.206.fa.contigs","DAS",270,45.17,"superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae",0.004,98.74,1.97
+"Seagrass.metabat2.107.fa.contigs","DAS",41,34.53,"superkingdom:Bacteria|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfuromonadia;order:Desulfuromonadales;family:Desulfuromonadaceae",0,97.98,0.27
+"Seagrass.metabat2.263.fa_sub.contigs","DAS",904,55.26,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Alphaproteobacteria;order:Rhodobacterales;family:Roseobacteraceae;genus:Sulfitobacter",0.057,97.71,61.58
+"Seagrass.concoct.337.fa_sub.contigs","DAS",722,56.91,"",0.01,97.68,72.32
+"Seagrass.concoct.303.fa.contigs","DAS",1410,47.89,"",0.006,97.49,9.97
+"Seagrass.concoct.333.fa_sub.contigs","DAS",1175,49.88,"superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae",0.231,97.17,34.22
+"Seagrass.concoct.389.fa_sub.contigs","DAS",1879,57.75,"",0.002,97.05,74.89
+"Seagrass.concoct.170.fa_sub.contigs","DAS",4777,60.86,"",0.001,96.91,41.21
+"Seagrass.concoct.330.fa_sub.contigs","DAS",384,46.88,"superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae",0,96.85,11.09
+"Seagrass.metabat2.210.fa_sub.contigs","DAS",651,58.61,"",0.04,96.45,22.21
+"Seagrass.concoct.241.fa_sub.contigs","DAS",2497,51.78,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria",0.021,96.45,37.87
+"Seagrass.metabat2.369.fa_sub.contigs","DAS",395,45.96,"",0.034,96.33,10.14
+"Seagrass.concoct.349.fa_sub.contigs","DAS",1596,57.23,"",0.005,96.29,47.53
+"Seagrass.concoct.229.fa_sub.contigs","DAS",385,42.44,"superkingdom:Bacteria|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Moraxellales;family:Moraxellaceae|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Moraxellales;family:Moraxellaceae;genus:Psychrobacter|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Thiotrichales;family:Piscirickettsiaceae;genus:Thiomicrospira",0.297,96.22,5.44
+"Seagrass.metabat2.190.fa.contigs","DAS",610,47.51,"",0.002,96.2,6.77
+"Seagrass.metabat2.97.fa_sub.contigs","DAS",1634,60.16,"",0.037,96.1,53.64
+"Seagrass.metabat2.213.fa_sub.contigs","DAS",1389,53.67,"superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae",0.002,95.94,78.61
+"Seagrass.concoct.379.fa_sub.contigs","DAS",3032,48.16,"",0.001,95.54,50.46
+"Seagrass.metabat2.76.fa_sub.contigs","DAS",740,49.32,"",0.005,95.13,56.4
+"Seagrass.metabat2.43.fa.contigs","DAS",483,60.05,"superkingdom:Bacteria",0.143,95.12,12.63
+"Seagrass.metabat2.293.fa.contigs","DAS",670,47.72,"",0,95.07,16
+"Seagrass.concoct.345.fa.contigs","DAS",1892,41.74,"",0.119,94.79,9.1
+"Seagrass.metabat2.126.fa.contigs","DAS",345,55.88,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Chromatiales;family:Ectothiorhodospiraceae;genus:Thiogranum",0.004,94.77,8.13
+"Seagrass.metabat2.279.fa_sub.contigs","DAS",947,57.67,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Chromatiales",0.002,94.71,51.85
+"Seagrass.metabat2.344.fa_sub.contigs","DAS",1021,51.39,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Alphaproteobacteria;order:Hyphomicrobiales;family:Ahrensiaceae;genus:Pseudahrensia",0.087,94.57,80.53
+"Seagrass.concoct.22.fa_sub.contigs","DAS",4982,66.26,"",0.361,93.82,33.08
+"Seagrass.metabat2.27.fa.contigs","DAS",351,51.8,"superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae",0,93.81,5.14
+"Seagrass.concoct.267.fa_sub.contigs","DAS",3674,66.68,"",0,93.73,20.89
+"Seagrass.metabat2.94.fa_sub.contigs","DAS",811,72.17,"",0.019,93.58,39.38
+"Seagrass.metabat2.434.fa.contigs","DAS",512,41.98,"",0.006,93.56,7.11
+"Seagrass.metabat2.133.fa.contigs","DAS",312,63.36,"superkingdom:Bacteria",0.007,93.22,4.6
+"Seagrass.metabat2.146.fa.contigs","DAS",747,41.72,"",0.023,93.21,12.09
+"Seagrass.metabat2.116.fa_sub.contigs","DAS",736,55.62,"",0.023,93.15,18.93
+"Seagrass.metabat2.44.fa_sub.contigs","DAS",216,59.89,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Alphaproteobacteria;order:Hyphomicrobiales;family:Hyphomicrobiaceae;genus:Filomicrobium",0,93.09,31.14
+"Seagrass.metabat2.196.fa_sub.contigs","DAS",783,37.67,"superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae",0,92.51,51.85
+"Seagrass.concoct.384.fa_sub.contigs","DAS",2613,59.37,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria",0.013,92.28,22.55
+"Seagrass.metabat2.266.fa.contigs","DAS",359,42.47,"superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae",0,92.25,5.16
+"Seagrass.metabat2.70.fa.contigs","DAS",542,53.81,"",0,92.13,12.69
+"Seagrass.metabat2.300.fa_sub.contigs","DAS",932,38.58,"",0.014,92.1,27.08
+"Seagrass.metabat2.372.fa.contigs","DAS",1012,45.01,"superkingdom:Bacteria",0.12,92.07,15.29
+"Seagrass.concoct.368.fa.contigs","DAS",2341,56.6,"",0.076,91.86,18.72
+"Seagrass.metabat2.366.fa_sub.contigs","DAS",1693,43.9,"",0.004,91.81,54.11
+"Seagrass.metabat2.400.fa.contigs","DAS",332,59.31,"",0.003,91.71,15.5
+"Seagrass.metabat2.193.fa.contigs","DAS",198,57.26,"",0,91.6,1.07
+"Seagrass.metabat2.375.fa.contigs","DAS",182,63.34,"",0.006,91.59,4.41
+"Seagrass.concoct.259.fa_sub.contigs","DAS",726,62.27,"",0.014,91.54,9.21
+"Seagrass.concoct.382.fa_sub.contigs","DAS",6911,39.74,"superkingdom:Bacteria",0.277,91.4,32.27
+"Seagrass.concoct.81.fa_sub.contigs","DAS",4402,54.8,"",0.005,91.34,53.35
+"Seagrass.metabat2.81.fa.contigs","DAS",336,47.68,"superkingdom:Bacteria",0,91.34,6.47
+"Seagrass.metabat2.217.fa_sub.contigs","DAS",1318,65.27,"",0,90.88,16.45
+"Seagrass.metabat2.102.fa_sub.contigs","DAS",1075,52.31,"",0.004,90.82,37.95
+"Seagrass.metabat2.265.fa_sub.contigs","DAS",823,46.9,"superkingdom:Bacteria",0.016,90.73,51.74
+"Seagrass.metabat2.246.fa_sub.contigs","DAS",1243,61.42,"",0.022,90.64,49.13
+"Seagrass.metabat2.14.fa_sub.contigs","DAS",329,64.79,"superkingdom:Bacteria",0.03,90.09,6.72
+"Seagrass.concoct.192.fa_sub.contigs","DAS",5352,61.16,"",0.033,90.01,40.31
+"Seagrass.concoct.182.fa.contigs","DAS",833,54.78,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Chromatiales",0.001,89.78,72.84
+"Seagrass.metabat2.343.fa_sub.contigs","DAS",1153,61.46,"",0.04,89.6,11.88
+"Seagrass.metabat2.392.fa.contigs","DAS",491,64.68,"",0.01,89.49,5.83
+"Seagrass.metabat2.135.fa.contigs","DAS",695,43.45,"",0.03,89.22,4.56
+"Seagrass.metabat2.356.fa.contigs","DAS",170,38.1,"",0,89.03,0.27
+"Seagrass.metabat2.71.fa_sub.contigs","DAS",663,47.79,"",0,88.95,26.42
+"Seagrass.concoct.391.fa_sub.contigs","DAS",3464,38.04,"superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae",0.276,88.78,23.69
+"Seagrass.metabat2.282.fa.contigs","DAS",334,63.42,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Chromatiales",0,88.64,0.95
+"Seagrass.concoct.231.fa_sub.contigs","DAS",789,63.48,"",0.066,88.49,16.14
+"Seagrass.metabat2.30.fa.contigs","DAS",505,49.56,"",0.038,88.45,5.13
+"Seagrass.concoct.52.fa_sub.contigs","DAS",6359,59.84,"",0.046,88.35,49.06
+"Seagrass.metabat2.230.fa_sub.contigs","DAS",1082,49.44,"",0.015,88.12,33.41
+"Seagrass.metabat2.163.fa_sub.contigs","DAS",1530,64.64,"superkingdom:Bacteria",0.016,88.11,40.65
+"Seagrass.metabat2.127.fa.contigs","DAS",135,50.47,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae",0,88.09,3.34
+"Seagrass.metabat2.134.fa.contigs","DAS",849,43.53,"",0.006,87.99,39.79
+"Seagrass.metabat2.371.fa.contigs","DAS",302,40.94,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Bacillota;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Pseudobacteroides",0.015,87.91,1.61
+"Seagrass.concoct.185.fa_sub.contigs","DAS",2610,53.71,"superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae",0.022,87.83,21.25
+"Seagrass.metabat2.345.fa_sub.contigs","DAS",289,66.35,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinomycetota;class:Acidimicrobiia;order:Acidimicrobiales;family:Ilumatobacteraceae;genus:Ilumatobacter",0.007,87.62,9.21
+"Seagrass.metabat2.171.fa.contigs","DAS",528,52.05,"superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfococcaceae;genus:Desulfonema",0,87.33,3.23
+"Seagrass.metabat2.186.fa_sub.contigs","DAS",1214,65.11,"superkingdom:Bacteria",0.015,87.3,43.84
+"Seagrass.metabat2.58.fa_sub.contigs","DAS",1389,66.53,"",0.007,86.92,43.69
+"Seagrass.metabat2.83.fa_sub.contigs","DAS",1374,61.48,"superkingdom:Bacteria",0,86.78,29.85
+"Seagrass.metabat2.429.fa_sub.contigs","DAS",356,44.31,"",0.027,86.77,5.75
+"Seagrass.metabat2.337.fa_sub.contigs","DAS",481,48.26,"superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae",0,86.65,6.26
+"Seagrass.metabat2.232.fa_sub.contigs","DAS",1185,36.8,"",0.094,86.34,19.97
+"Seagrass.concoct.94.fa_sub.contigs","DAS",8011,52.49,"superkingdom:Archaea;phylum:Euryarchaeota|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobulbia;order:Desulfobulbales;family:Desulfobulbaceae;genus:Desulfobulbus",0.017,86.33,31.02
+"Seagrass.metabat2.128.fa_sub.contigs","DAS",1075,66.66,"",0.003,86.03,74.87
+"Seagrass.metabat2.320.fa_sub.contigs","DAS",1045,55.39,"",0.01,85.99,34.78
+"Seagrass.metabat2.175.fa.contigs","DAS",447,68.42,"",0,85.45,13.89
+"Seagrass.metabat2.179.fa.contigs","DAS",441,61.61,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Alphaproteobacteria;order:Hyphomicrobiales;family:Hyphomicrobiaceae;genus:Methyloceanibacter",0,85.21,47.91
+"Seagrass.metabat2.326.fa_sub.contigs","DAS",465,61.13,"",0.09,85.16,3.06
+"Seagrass.metabat2.168.fa_sub.contigs","DAS",1466,48.14,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae",0.003,85.13,53.98
+"Seagrass.metabat2.329.fa_sub.contigs","DAS",601,44.08,"",0,85.12,23.83
+"Seagrass.concoct.115.fa_sub.contigs","DAS",2322,41.79,"",0.023,85.01,33.39
+"Seagrass.metabat2.352.fa_sub.contigs","DAS",1561,68.52,"superkingdom:Bacteria",0.09,84.81,53.92
+"Seagrass.metabat2.430.fa.contigs","DAS",283,68.32,"",0,84.64,4.03
+"Seagrass.metabat2.93.fa_sub.contigs","DAS",1063,63.09,"",0.012,84.55,43.88
+"Seagrass.concoct.98.fa_sub.contigs","DAS",604,41.06,"",0.155,84.52,9.49
+"Seagrass.concoct.202.fa_sub.contigs","DAS",4109,61.33,"",0.025,84.43,27.97
+"Seagrass.concoct.158.fa_sub.contigs","DAS",3466,42.38,"",0.001,84.37,22.49
+"Seagrass.metabat2.117.fa_sub.contigs","DAS",737,37.93,"superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Flavobacteriia;order:Flavobacteriales;family:Phaeocystidibacteraceae;genus:Phaeocystidibacter",0.05,84.31,5.3
+"Seagrass.concoct.144.fa_sub.contigs","DAS",1954,58.58,"superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfosarcinaceae;genus:Desulfosarcina",0.123,84.31,18.34
+"Seagrass.metabat2.348.fa.contigs","DAS",645,61.37,"",0,83.81,6.29
+"Seagrass.metabat2.309.fa.contigs","DAS",557,66.49,"",0.035,83.81,26.12
+"Seagrass.metabat2.79.fa.contigs","DAS",638,47.72,"",0,83.71,6.57
+"Seagrass.metabat2.49.fa.contigs","DAS",464,68.86,"superkingdom:Bacteria",0.029,83.35,11.53
+"Seagrass.concoct.287.fa_sub.contigs","DAS",3188,49.75,"superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae",0.001,83.31,28.07
+"Seagrass.metabat2.17.fa.contigs","DAS",404,46.45,"superkingdom:Archaea|superkingdom:Archaea;clade:TACK group;phylum:Thermoproteota;class:Thermoprotei",0,83.23,16.06
+"Seagrass.metabat2.370.fa.contigs","DAS",312,67.48,"",0.007,82.78,12.42
+"Seagrass.metabat2.276.fa.contigs","DAS",424,35.25,"superkingdom:Bacteria",0.087,82.51,10.51
+"Seagrass.concoct.163.fa_sub.contigs","DAS",5480,57.93,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae",0.002,82.45,21.69
+"Seagrass.concoct.36.fa_sub.contigs","DAS",6175,55.87,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae|superkingdom:Bacteria;phylum:Pseudomonadota;class:Alphaproteobacteria;order:Hyphomicrobiales;family:Hyphomicrobiaceae;genus:Methyloceanibacter",0.005,82.16,27.29
+"Seagrass.concoct.59.fa_sub.contigs","DAS",1415,43.66,"superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae;genus:Muriicola",0.006,82.12,20.17
+"Seagrass.concoct.294.fa_sub.contigs","DAS",3858,56.29,"",0.129,81.85,29.8
+"Seagrass.metabat2.225.fa_sub.contigs","DAS",1176,57.98,"",0.003,81.85,58.26
+"Seagrass.metabat2.90.fa_sub.contigs","DAS",523,54.66,"",0.142,81.43,6.03
+"Seagrass.metabat2.394.fa.contigs","DAS",600,58.69,"superkingdom:Bacteria",0.144,81.24,11.16
+"Seagrass.concoct.189.fa_sub.contigs","DAS",3471,65.79,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Alphaproteobacteria|superkingdom:Bacteria;phylum:Pseudomonadota;class:Alphaproteobacteria;order:Rhodobacterales;family:Paracoccaceae;genus:Amaricoccus",0.082,81.13,24.06
+"Seagrass.concoct.147.fa_sub.contigs","DAS",4629,39.12,"",0.045,80.99,26.85
+"Seagrass.concoct.329.fa_sub.contigs","DAS",1318,61.55,"",0.009,80.94,35.47
+"Seagrass.metabat2.404.fa_sub.contigs","DAS",717,57.37,"",0.008,80.66,5.43
+"Seagrass.metabat2.182.fa_sub.contigs","DAS",1948,54.85,"",0.016,80.63,51.24
+"Seagrass.concoct.70.fa_sub.contigs","DAS",938,48.65,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Alphaproteobacteria",0.142,80.36,18.54
+"Seagrass.metabat2.334.fa.contigs","DAS",583,61.25,"",0.022,80.27,1.13
+"Seagrass.concoct.3.fa_sub.contigs","DAS",2788,46.53,"superkingdom:Bacteria|superkingdom:Bacteria;phylum:Campylobacterota;class:Epsilonproteobacteria;order:Campylobacterales;family:Campylobacteraceae|superkingdom:Bacteria;phylum:Pseudomonadota;class:Betaproteobacteria;order:Nitrosomonadales;family:Nitrosomonadaceae;genus:Nitrosospira",0.008,80.03,22.21
+"Seagrass.metabat2.425.fa_sub.contigs","DAS",552,38.9,"superkingdom:Bacteria;phylum:Spirochaetota;class:Spirochaetia;order:Spirochaetales;family:Spirochaetaceae;genus:Salinispira",0.009,79.98,3.27
+"Seagrass.metabat2.354.fa_sub.contigs","DAS",783,60.5,"",0.027,79.92,17.34
+"Seagrass.concoct.175.fa_sub.contigs","DAS",6632,57.84,"",0.001,79.81,29.17
+"Seagrass.metabat2.154.fa_sub.contigs","DAS",1861,48.34,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae",0.01,79.64,25.84
+"Seagrass.metabat2.340.fa_sub.contigs","DAS",735,49.13,"",0.021,79.62,4.84
+"Seagrass.metabat2.56.fa.contigs","DAS",582,56.28,"",0,79.62,0.2
+"Seagrass.concoct.315.fa_sub.contigs","DAS",3722,49.94,"",0.001,79.49,35.96
+"Seagrass.concoct.157.fa_sub.contigs","DAS",4153,45.3,"",0.036,79.19,28.82
+"Seagrass.metabat2.118.fa_sub.contigs","DAS",848,57.75,"",0.004,79.19,26.78
+"Seagrass.metabat2.145.fa_sub.contigs","DAS",1740,58.01,"superkingdom:Bacteria;clade:PVC group;phylum:Planctomycetota;class:Planctomycetia;order:Planctomycetales;family:Planctomycetaceae",0.049,78.93,21.42
+"Seagrass.metabat2.314.fa.contigs","DAS",360,52.14,"superkingdom:Bacteria",0,78.85,14.85
+"Seagrass.metabat2.363.fa.contigs","DAS",802,56.06,"",0.061,78.75,4.36
+"Seagrass.concoct.265.fa_sub.contigs","DAS",1795,48.13,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae",0.01,78.66,42.61
+"Seagrass.concoct.102.fa_sub.contigs","DAS",2698,53.81,"",0.392,78.41,32.35
+"Seagrass.concoct.82.fa_sub.contigs","DAS",5805,51.02,"",0.044,78.37,27.34
+"Seagrass.concoct.353.fa_sub.contigs","DAS",3124,56.73,"",0.139,78.17,24.86
+"Seagrass.metabat2.112.fa_sub.contigs","DAS",1197,58.15,"",0.001,77.94,36
+"Seagrass.concoct.297.fa_sub.contigs","DAS",2943,63.48,"",0.001,77.81,16.69
+"Seagrass.concoct.240.fa_sub.contigs","DAS",2885,58.17,"",0.001,77.78,21.41
+"Seagrass.metabat2.78.fa_sub.contigs","DAS",1848,55.14,"",0.034,77.63,56.9
+"Seagrass.metabat2.221.fa_sub.contigs","DAS",274,54.59,"",0.005,77.43,3.2
+"Seagrass.metabat2.236.fa_sub.contigs","DAS",893,57.8,"",0.019,76.67,20.24
+"Seagrass.metabat2.15.fa.contigs","DAS",508,41.81,"superkingdom:Bacteria",0.002,76.54,6.7
+"Seagrass.metabat2.237.fa_sub.contigs","DAS",484,66.78,"",0.003,76.51,7.03
+"Seagrass.metabat2.234.fa.contigs","DAS",344,60.18,"",0.006,76.42,14.2
+"Seagrass.concoct.354.fa_sub.contigs","DAS",2966,41.86,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria",0.364,76.26,25.12
+"Seagrass.metabat2.82.fa.contigs","DAS",739,60.78,"superkingdom:Bacteria;clade:PVC group;phylum:Planctomycetota;class:Planctomycetia;order:Planctomycetales;family:Planctomycetaceae",0,75.87,2.8
+"Seagrass.concoct.164.fa_sub.contigs","DAS",3350,66.01,"",0.068,75.62,17.93
+"Seagrass.metabat2.200.fa_sub.contigs","DAS",677,64.5,"",0.005,75.62,37.06
+"Seagrass.concoct.129.fa_sub.contigs","DAS",4573,55.81,"",0.021,75.59,55.34
+"Seagrass.concoct.53.fa_sub.contigs","DAS",1796,30.43,"",0.061,75.56,4
+"Seagrass.concoct.348.fa_sub.contigs","DAS",745,39.96,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae",0.001,75.54,10.87
+"Seagrass.concoct.344.fa_sub.contigs","DAS",2392,54.44,"",0.007,75.47,23.07
+"Seagrass.concoct.42.fa_sub.contigs","DAS",3222,65.94,"",0,75.28,14.13
+"Seagrass.metabat2.139.fa_sub.contigs","DAS",547,45.04,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae",0.01,75.27,21.77
+"Seagrass.concoct.212.fa_sub.contigs","DAS",5190,64.89,"",0.001,75.22,25.23
+"Seagrass.concoct.108.fa_sub.contigs","DAS",3810,57.68,"",0.007,75.17,40.75
+"Seagrass.concoct.155.fa_sub.contigs","DAS",5560,56.26,"superkingdom:Bacteria",0.001,75.03,25.32
+"Seagrass.metabat2.125.fa.contigs","DAS",731,62.45,"",0.031,74.66,2.24
+"Seagrass.concoct.78.fa_sub.contigs","DAS",5237,57.35,"",0.038,74.65,31.23
+"Seagrass.concoct.29.fa_sub.contigs","DAS",5713,41.64,"",0.305,74.5,30.87
+"Seagrass.concoct.341.fa_sub.contigs","DAS",5095,53.65,"superkingdom:Archaea;clade:TACK group;phylum:Thermoproteota;class:Thermoprotei|superkingdom:Bacteria|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Bacillota;class:Negativicutes;order:Veillonellales;family:Veillonellaceae",0.023,74.38,19.1
+"Seagrass.metabat2.74.fa.contigs","DAS",1854,69.44,"",0.026,74.35,27.49
+"Seagrass.concoct.114.fa_sub.contigs","DAS",3954,47.38,"",0.005,74.23,15.18
+"Seagrass.concoct.235.fa_sub.contigs","DAS",3315,62.87,"superkingdom:Bacteria",0.025,74.05,38.77
+"Seagrass.concoct.72.fa_sub.contigs","DAS",4680,66.07,"",0.025,74,31.28
+"Seagrass.concoct.285.fa_sub.contigs","DAS",3429,54.56,"superkingdom:Bacteria",0.001,73.59,25.69
+"Seagrass.metabat2.304.fa.contigs","DAS",566,64.13,"",0.025,73.53,13.52
+"Seagrass.metabat2.408.fa_sub.contigs","DAS",467,54.16,"",0.007,73.52,4.24
+"Seagrass.concoct.146.fa_sub.contigs","DAS",5274,60.44,"",0.26,73.51,36.91
+"Seagrass.concoct.215.fa_sub.contigs","DAS",2976,62.76,"",0.115,73.5,23.12
+"Seagrass.metabat2.272.fa.contigs","DAS",767,66.93,"",0,73.36,15.5
+"Seagrass.concoct.124.fa_sub.contigs","DAS",7242,59.15,"",0.282,73.29,30.8
+"Seagrass.metabat2.165.fa_sub.contigs","DAS",759,49.19,"",0.035,73.02,7.63
+"Seagrass.concoct.371.fa_sub.contigs","DAS",3373,47.82,"",0.002,72.98,22.5
+"Seagrass.concoct.266.fa_sub.contigs","DAS",4545,57.81,"superkingdom:Bacteria|superkingdom:Bacteria;clade:PVC group;phylum:Verrucomicrobiota;class:Verrucomicrobiia;order:Verrucomicrobiales;family:Verrucomicrobiaceae;genus:Luteolibacter|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria",0.003,72.94,15.14
+"Seagrass.metabat2.106.fa.contigs","DAS",1076,67.9,"",0.099,72.8,26.05
+"Seagrass.concoct.272.fa_sub.contigs","DAS",4404,44.76,"superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobulbia;order:Desulfobulbales;family:Desulfobulbaceae",0.306,72.7,49.78
+"Seagrass.concoct.238.fa_sub.contigs","DAS",2697,45.17,"",0.218,72.44,24.97
+"Seagrass.metabat2.181.fa_sub.contigs","DAS",1345,60.71,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria",0.16,72.43,27.5
+"Seagrass.concoct.355.fa.contigs","DAS",1435,52.34,"superkingdom:Bacteria",0.075,72.28,7.84
+"Seagrass.concoct.271.fa_sub.contigs","DAS",2294,45.17,"",0.02,71.82,24.83
+"Seagrass.concoct.49.fa_sub.contigs","DAS",2668,52.75,"",0.06,71.48,19
+"Seagrass.metabat2.160.fa.contigs","DAS",692,50.47,"superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Syntrophobacteria;order:Syntrophobacterales",0,71.47,7.87
+"Seagrass.metabat2.295.fa.contigs","DAS",441,69.82,"",0.029,71.37,2.24
+"Seagrass.concoct.101.fa_sub.contigs","DAS",5863,52.62,"superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Cytophagia;order:Cytophagales;family:Flammeovirgaceae|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinomycetota;class:Thermoleophilia;order:Gaiellales;family:Gaiellaceae;genus:Gaiella",0.024,71.15,22.73
+"Seagrass.concoct.218.fa_sub.contigs","DAS",3472,36.23,"",0.017,71.15,30.86
+"Seagrass.concoct.126.fa_sub.contigs","DAS",3871,54.3,"superkingdom:Bacteria|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae",0.031,71.1,23.17
+"Seagrass.concoct.187.fa_sub.contigs","DAS",2297,61.95,"",0.057,71.09,18.1
+"Seagrass.metabat2.323.fa.contigs","DAS",441,32.6,"",0.003,70.82,2.93
+"Seagrass.concoct.289.fa_sub.contigs","DAS",3711,56.69,"",0.04,70.53,28
+"Seagrass.metabat2.169.fa.contigs","DAS",756,60.33,"",0.011,70.53,3.29
+"Seagrass.metabat2.137.fa_sub.contigs","DAS",795,56.72,"",0.007,70.12,10.12
+"Seagrass.concoct.140.fa_sub.contigs","DAS",2917,36.73,"",0.278,70.08,29.54
+"Seagrass.concoct.293.fa_sub.contigs","DAS",5046,55.92,"",0.177,69.83,23.13
+"Seagrass.concoct.291.fa_sub.contigs","DAS",6114,52.63,"",0.02,69.81,34.78
+"Seagrass.metabat2.273.fa_sub.contigs","DAS",1116,62.17,"",0.018,69.75,14.63
+"Seagrass.metabat2.374.fa_sub.contigs","DAS",503,34.6,"",0.031,69.69,9.95
+"Seagrass.concoct.46.fa_sub.contigs","DAS",7983,55.02,"",0.021,69.53,29.5
+"Seagrass.concoct.217.fa_sub.contigs","DAS",3258,57.08,"",0.016,69.44,28.77
+"Seagrass.metabat2.159.fa_sub.contigs","DAS",1685,45.87,"",0.008,69.34,29.7
+"Seagrass.metabat2.362.fa_sub.contigs","DAS",1179,67.41,"superkingdom:Bacteria",0.165,69.26,34.53
+"Seagrass.metabat2.142.fa_sub.contigs","DAS",1978,52.21,"",0.014,69,23.83
+"Seagrass.concoct.372.fa_sub.contigs","DAS",1852,57.04,"",0.005,68.94,20.02
+"Seagrass.metabat2.223.fa.contigs","DAS",1128,61.89,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinomycetota;class:Actinomycetes;order:Pseudonocardiales;family:Pseudonocardiaceae",0.025,68.83,16.77
+"Seagrass.concoct.199.fa_sub.contigs","DAS",2864,50.41,"",0.003,68.67,17.26
+"Seagrass.metabat2.61.fa.contigs","DAS",585,59.96,"",0.004,68.27,9.16
+"Seagrass.concoct.139.fa_sub.contigs","DAS",5302,60.84,"",0.001,68.07,21.59
+"Seagrass.metabat2.212.fa.contigs","DAS",415,56.33,"",0,68.04,7.12
+"Seagrass.concoct.100.fa_sub.contigs","DAS",2863,50,"",0.002,67.85,16.63
+"Seagrass.concoct.280.fa_sub.contigs","DAS",4644,55.52,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria|superkingdom:Bacteria;phylum:Spirochaetota;class:Spirochaetia;order:Spirochaetales;family:Spirochaetaceae|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae",0.005,67.81,21.74
+"Seagrass.concoct.309.fa_sub.contigs","DAS",3122,50.87,"",0.065,67.57,23.42
+"Seagrass.concoct.173.fa_sub.contigs","DAS",4015,55.83,"superkingdom:Bacteria;clade:PVC group;phylum:Planctomycetota;class:Planctomycetia;order:Planctomycetales;family:Planctomycetaceae|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae;genus:Ornatilinea",0.018,67.46,22.1
+"Seagrass.concoct.320.fa_sub.contigs","DAS",2531,41.53,"superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Ignavibacteriota;class:Ignavibacteria;order:Ignavibacteriales;family:Ignavibacteriaceae|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Thiotrichales;family:Thiotrichaceae;genus:Cocleimonas",0.284,67.4,18.11
+"Seagrass.concoct.116.fa_sub.contigs","DAS",3376,55.09,"",0.041,67.34,28.25
+"Seagrass.metabat2.327.fa.contigs","DAS",1973,57.05,"superkingdom:Bacteria;clade:PVC group;phylum:Planctomycetota;class:Planctomycetia;order:Pirellulales;family:Pirellulaceae;genus:Rhodopirellula|superkingdom:Bacteria;clade:PVC group;phylum:Planctomycetota;class:Planctomycetia;order:Planctomycetales;family:Planctomycetaceae",0.013,66.82,19.11
+"Seagrass.metabat2.395.fa_sub.contigs","DAS",616,53.75,"",0.027,66.72,13.79
+"Seagrass.metabat2.115.fa.contigs","DAS",639,51,"",0,66.65,3.08
+"Seagrass.metabat2.59.fa.contigs","DAS",944,62.6,"",0,66.61,17.45
+"Seagrass.concoct.181.fa_sub.contigs","DAS",5157,59.91,"superkingdom:Bacteria|superkingdom:Bacteria;phylum:Spirochaetota;class:Spirochaetia;order:Spirochaetales;family:Spirochaetaceae",0.003,66.6,18.95
+"Seagrass.concoct.69.fa_sub.contigs","DAS",5045,46.46,"superkingdom:Bacteria|superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Ignavibacteriota;class:Ignavibacteria;order:Ignavibacteriales;family:Melioribacteraceae;genus:Melioribacter|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae",0.037,66.27,19.62
+"Seagrass.metabat2.280.fa.contigs","DAS",442,59.69,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria",0.005,66.21,1.69
+"Seagrass.concoct.79.fa_sub.contigs","DAS",2260,49.11,"",0.27,65.85,21.82
+"Seagrass.concoct.154.fa_sub.contigs","DAS",4276,59.56,"",0.132,65.84,29.19
+"Seagrass.concoct.51.fa_sub.contigs","DAS",1230,55.16,"",0.024,65.76,8.67
+"Seagrass.concoct.117.fa_sub.contigs","DAS",3803,45.7,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae|superkingdom:Bacteria;phylum:Campylobacterota;class:Epsilonproteobacteria;order:Campylobacterales;family:Helicobacteraceae|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria",0.025,65.75,14.55
+"Seagrass.metabat2.130.fa.contigs","DAS",466,38.52,"",0.018,65.64,7.26
+"Seagrass.metabat2.187.fa.contigs","DAS",382,52.18,"superkingdom:Bacteria",0,65.61,8.09
+"Seagrass.metabat2.170.fa_sub.contigs","DAS",523,40.82,"",0.017,65.38,8.14
+"Seagrass.concoct.105.fa_sub.contigs","DAS",5066,56.04,"",0.051,65.27,23.45
+"Seagrass.metabat2.222.fa.contigs","DAS",1006,55.16,"",0.015,64.74,6.84
+"Seagrass.metabat2.267.fa.contigs","DAS",340,37.53,"",0.009,64.34,3.77
+"Seagrass.metabat2.34.fa.contigs","DAS",477,48.69,"",0,64.11,10.7
+"Seagrass.concoct.34.fa_sub.contigs","DAS",1377,56.76,"",0.018,63.85,11.1
+"Seagrass.metabat2.406.fa_sub.contigs","DAS",531,49.17,"superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae",0,63.82,18.61
+"Seagrass.concoct.197.fa_sub.contigs","DAS",3892,57.26,"superkingdom:Bacteria;clade:PVC group;phylum:Planctomycetota;class:Planctomycetia;order:Planctomycetales;family:Planctomycetaceae",0.031,63.74,20.17
+"Seagrass.concoct.220.fa_sub.contigs","DAS",2010,60.17,"",0.003,63.65,12.86
+"Seagrass.concoct.274.fa_sub.contigs","DAS",2815,43.52,"",0.124,63.65,13.3
+"Seagrass.concoct.57.fa_sub.contigs","DAS",4050,51.79,"",0.02,63.16,22.38
+"Seagrass.concoct.178.fa_sub.contigs","DAS",3682,61.72,"",0.125,63.14,19.01
+"Seagrass.concoct.253.fa_sub.contigs","DAS",4255,60.19,"superkingdom:Bacteria|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Caldilineae;order:Caldilineales;family:Caldilineaceae;genus:Litorilinea",0.003,63.1,18.78
+"Seagrass.concoct.152.fa_sub.contigs","DAS",2433,64.38,"superkingdom:Bacteria",0.018,62.88,22.74
+"Seagrass.concoct.307.fa_sub.contigs","DAS",3378,46.96,"",0.003,62.86,14.59
+"Seagrass.concoct.24.fa_sub.contigs","DAS",1796,33.07,"superkingdom:Archaea",0.042,62.67,10.49
+"Seagrass.concoct.230.fa_sub.contigs","DAS",3085,50.32,"",0.133,62.53,18.91
+"Seagrass.metabat2.421.fa.contigs","DAS",277,37.93,"",0.045,62.48,2.04
+"Seagrass.metabat2.141.fa.contigs","DAS",604,66.86,"",0.02,62.33,1.85
+"Seagrass.metabat2.189.fa_sub.contigs","DAS",789,37.52,"",0.004,62.22,20.97
+"Seagrass.concoct.58.fa_sub.contigs","DAS",3602,43.16,"superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae;genus:Actibacter|superkingdom:Bacteria;phylum:Campylobacterota;class:Epsilonproteobacteria|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae",0.031,61.73,16.33
+"Seagrass.metabat2.113.fa_sub.contigs","DAS",266,33.13,"",0.027,61.71,8.6
+"Seagrass.concoct.198.fa_sub.contigs","DAS",4447,52.42,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Chromatiales",0.015,61.61,17.64
+"Seagrass.metabat2.287.fa.contigs","DAS",468,66.73,"superkingdom:Bacteria;phylum:Cyanobacteria",0.064,61.39,22.12
+"Seagrass.concoct.195.fa_sub.contigs","DAS",2280,56.27,"",0.001,61.16,11.78
+"Seagrass.concoct.277.fa_sub.contigs","DAS",4510,59.29,"superkingdom:Bacteria;clade:PVC group;phylum:Planctomycetota;class:Planctomycetia;order:Pirellulales;family:Pirellulaceae;genus:Rhodopirellula",0.004,61.13,16.64
+"Seagrass.concoct.332.fa_sub.contigs","DAS",2457,63.68,"",0.026,61.03,26.96
+"Seagrass.concoct.132.fa_sub.contigs","DAS",3029,56.43,"superkingdom:Bacteria|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria",0.003,60.94,10.78
+"Seagrass.metabat2.214.fa_sub.contigs","DAS",781,32.5,"",0,60.91,12.15
+"Seagrass.metabat2.341.fa_sub.contigs","DAS",691,59.27,"",0.087,60.9,4.65
+"Seagrass.concoct.210.fa_sub.contigs","DAS",2614,57.66,"",0.018,60.77,22.77
+"Seagrass.concoct.318.fa_sub.contigs","DAS",3853,55.64,"",0.04,60.69,20.28
+"Seagrass.concoct.153.fa_sub.contigs","DAS",1642,28.27,"",0.318,60.65,3.72
+"Seagrass.metabat2.108.fa.contigs","DAS",528,63.21,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria",0.003,60.5,2.19
+"Seagrass.concoct.361.fa_sub.contigs","DAS",2999,50.7,"superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobulbia;order:Desulfobulbales;family:Desulfobulbaceae",0.015,60.43,22.48
+"Seagrass.metabat2.158.fa_sub.contigs","DAS",1459,58.69,"superkingdom:Bacteria;clade:PVC group;phylum:Planctomycetota;class:Planctomycetia;order:Planctomycetales;family:Planctomycetaceae",0.003,60.29,19.81
+"Seagrass.concoct.248.fa_sub.contigs","DAS",5956,50.56,"superkingdom:Bacteria|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae",0.004,59.72,23.68
+"Seagrass.concoct.104.fa_sub.contigs","DAS",3923,65.55,"",0.001,59.59,17.54
+"Seagrass.metabat2.120.fa_sub.contigs","DAS",633,55.55,"",0.002,59.48,2.02
+"Seagrass.concoct.63.fa_sub.contigs","DAS",2605,56.88,"superkingdom:Bacteria|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Dehalococcoidia;order:Dehalococcoidales;family:Dehalococcoidaceae;genus:Dehalococcoides|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae",0.05,59.19,21.69
+"Seagrass.metabat2.390.fa_sub.contigs","DAS",590,64.19,"",0.002,59.19,12.35
+"Seagrass.concoct.290.fa_sub.contigs","DAS",5666,55.01,"",0.234,58.85,21.95
+"Seagrass.concoct.103.fa_sub.contigs","DAS",4908,55.15,"superkingdom:Bacteria",0.055,58.68,14.54
+"Seagrass.concoct.14.fa_sub.contigs","DAS",2752,51.59,"",0.04,58.61,5.89
+"Seagrass.concoct.136.fa_sub.contigs","DAS",787,58.04,"",0.007,57.86,16.83
+"Seagrass.concoct.135.fa_sub.contigs","DAS",3745,45.56,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae",0.061,57.84,15.66
+"Seagrass.concoct.244.fa_sub.contigs","DAS",4264,60.27,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria",0.003,57.51,15.6
+"Seagrass.concoct.107.fa_sub.contigs","DAS",12617,53.77,"",0.012,57.45,15.06
+"Seagrass.concoct.2.fa_sub.contigs","DAS",3948,45.04,"superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae",0.029,56.89,14.1
+"Seagrass.metabat2.68.fa_sub.contigs","DAS",500,56.85,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria",0,56.84,2.9
+"Seagrass.metabat2.48.fa_sub.contigs","DAS",697,61.43,"",0.009,56.83,6.49
+"Seagrass.metabat2.275.fa.contigs","DAS",345,51.47,"",0.012,56.49,10.47
+"Seagrass.concoct.302.fa_sub.contigs","DAS",2880,55.09,"superkingdom:Bacteria",0.012,56.22,12.65
+"Seagrass.concoct.327.fa_sub.contigs","DAS",1398,63.05,"",0,56.14,2.45
+"Seagrass.metabat2.19.fa_sub.contigs","DAS",1440,60.38,"superkingdom:Bacteria;clade:PVC group;phylum:Planctomycetota;class:Planctomycetia;order:Planctomycetales;family:Planctomycetaceae",0.039,56.12,9.81
+"Seagrass.concoct.86.fa_sub.contigs","DAS",3712,59.78,"",0.032,55.39,17.59
+"Seagrass.metabat2.69.fa_sub.contigs","DAS",384,56.18,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria",0.012,55.38,3.19
+"Seagrass.concoct.367.fa_sub.contigs","DAS",3755,61.12,"",0.097,55.18,13.82
+"Seagrass.metabat2.264.fa.contigs","DAS",459,56.89,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Alphaproteobacteria;order:Rhodobacterales;family:Roseobacteraceae;genus:Loktanella",0.033,54.87,2.64
+"Seagrass.concoct.39.fa.contigs","DAS",1933,53.6,"",0.289,54.85,7.05
+"Seagrass.concoct.194.fa_sub.contigs","DAS",2994,54.27,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobulbia;order:Desulfobulbales;family:Desulfobulbaceae;genus:Desulfobulbus|superkingdom:Eukaryota;kingdom:Viridiplantae;phylum:Streptophyta",0.078,54.47,12.71
+"Seagrass.concoct.121.fa_sub.contigs","DAS",2525,68.31,"",0.005,54.36,14.62
+"Seagrass.concoct.325.fa_sub.contigs","DAS",5109,53.3,"",0.059,53.91,14.83
+"Seagrass.metabat2.239.fa_sub.contigs","DAS",543,57.51,"",0.005,53.88,10.19
+"Seagrass.metabat2.22.fa_sub.contigs","DAS",380,39.94,"",0.016,53.84,6.02
+"Seagrass.concoct.216.fa_sub.contigs","DAS",1782,51.99,"",0.017,53.82,14.51
+"Seagrass.metabat2.9.fa_sub.contigs","DAS",392,57.38,"",0.159,53.75,4.55
+"Seagrass.concoct.196.fa_sub.contigs","DAS",4251,60.62,"superkingdom:Archaea;clade:TACK group;phylum:Thermoproteota;class:Thermoprotei",0.001,53.64,15.57
+"Seagrass.concoct.363.fa_sub.contigs","DAS",1288,57.92,"",0.006,52.93,18.38
+"Seagrass.metabat2.351.fa_sub.contigs","DAS",891,49.2,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae",0.005,52.88,3.47
+"Seagrass.concoct.180.fa_sub.contigs","DAS",2394,57.54,"",0.036,52.87,9.72
+"Seagrass.metabat2.417.fa.contigs","DAS",403,46.63,"",0.008,52.75,0.92
+"Seagrass.concoct.243.fa_sub.contigs","DAS",3347,43.54,"",0.013,51.89,13.97
+"Seagrass.concoct.134.fa_sub.contigs","DAS",3053,63.42,"",0.003,51.3,11.04
+"Seagrass.metabat2.253.fa_sub.contigs","DAS",1194,63.71,"",0.002,51.03,7.83
+"Seagrass.metabat2.381.fa.contigs","DAS",231,65.42,"",0.049,51,0.46
+"Seagrass.concoct.165.fa_sub.contigs","DAS",2984,57.18,"",0.042,50.98,9.68
+"Seagrass.concoct.399.fa_sub.contigs","DAS",2942,56.97,"superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae;genus:Winogradskyella",0.007,50.95,14.66
+"Seagrass.metabat2.151.fa_sub.contigs","DAS",677,54.55,"",0.052,50.67,8.61
+"Seagrass.concoct.214.fa_sub.contigs","DAS",1384,57.47,"",0.021,50.11,12.08
+"Seagrass.concoct.224.fa_sub.contigs","DAS",1388,56.85,"",0.009,49.94,11.2
+"Seagrass.metabat2.89.fa_sub.contigs","DAS",389,56.23,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria",0.012,49.2,1.52
+"Seagrass.metabat2.291.fa.contigs","DAS",666,57.13,"",0,48.97,4.32
+"Seagrass.concoct.260.fa_sub.contigs","DAS",1603,52.13,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria",0.1,48.78,6.34
+"Seagrass.metabat2.339.fa.contigs","DAS",170,63.63,"",0,48.77,0.25
+"Seagrass.metabat2.220.fa_sub.contigs","DAS",741,68.59,"",0.07,48.65,16.04
+"Seagrass.concoct.71.fa_sub.contigs","DAS",3578,49.75,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinomycetota;class:Actinomycetes;order:Actinomycetales",0.351,48.41,17.78
+"Seagrass.concoct.312.fa_sub.contigs","DAS",5637,55.09,"superkingdom:Archaea|superkingdom:Archaea;clade:TACK group;phylum:Thermoproteota;class:Thermoprotei|superkingdom:Archaea;clade:TACK group;phylum:Thermoproteota;class:Thermoprotei;order:Thermofilales;family:Thermofilaceae;genus:Thermofilum|superkingdom:Archaea;phylum:Candidatus Thermoplasmatota;class:Thermoplasmata;order:Methanomassiliicoccales;family:Methanomassiliicoccaceae;genus:Methanomassiliicoccus|superkingdom:Bacteria|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Caldilineae;order:Caldilineales;family:Caldilineaceae|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Dehalococcoidia;order:Dehalococcoidales;family:Dehalococcoidaceae;genus:Dehalococcoides|superkingdom:Bacteria;phylum:Calditrichota;class:Calditrichia;order:Calditrichales;family:Calditrichaceae;genus:Caldithrix|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae",0.006,48.16,18.42
+"Seagrass.metabat2.238.fa_sub.contigs","DAS",501,50.74,"superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae",0.012,47.76,8.84
+"Seagrass.metabat2.387.fa.contigs","DAS",672,38,"",0.005,47.39,2.26
+"Seagrass.concoct.127.fa_sub.contigs","DAS",2689,50.39,"",0.103,47.24,8.29
+"Seagrass.concoct.162.fa_sub.contigs","DAS",1422,54.22,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Chromatiales",0.037,47.24,12.2
+"Seagrass.concoct.200.fa_sub.contigs","DAS",2239,48.83,"superkingdom:Bacteria",0.068,46.47,2.12
+"Seagrass.metabat2.24.fa.contigs","DAS",316,51.08,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae",0.014,46.38,2.43
+"Seagrass.concoct.1.fa_sub.contigs","DAS",1681,49.44,"",0.395,45.87,4.72
+"Seagrass.metabat2.318.fa_sub.contigs","DAS",323,59.07,"",0.003,45.78,5.31
+"Seagrass.metabat2.243.fa.contigs","DAS",1076,59.73,"",0.066,45.29,7.47
+"Seagrass.metabat2.245.fa_sub.contigs","DAS",489,51.31,"",0.024,45.24,1.59
+"Seagrass.concoct.317.fa_sub.contigs","DAS",1768,48.96,"",0.242,44.97,9.81
+"Seagrass.concoct.159.fa_sub.contigs","DAS",3769,56.63,"superkingdom:Bacteria|superkingdom:Bacteria;clade:delta/epsilon subdivisions;class:Deltaproteobacteria",0.207,44.88,12.5
+"Seagrass.metabat2.364.fa.contigs","DAS",337,68.55,"",0.007,44.81,0.08
+"Seagrass.concoct.184.fa_sub.contigs","DAS",1764,56.18,"",0.067,44.8,4.92
+"Seagrass.concoct.211.fa_sub.contigs","DAS",2936,43.6,"superkingdom:Bacteria;clade:delta/epsilon subdivisions;class:Deltaproteobacteria",0.017,44.64,9.52
+"Seagrass.metabat2.365.fa.contigs","DAS",45,31.62,"superkingdom:Eukaryota;clade:Sar;clade:Stramenopiles;clade:Ochrophyta;phylum:Bacillariophyta",0.073,44.58,11.26
+"Seagrass.concoct.385.fa_sub.contigs","DAS",2354,54.76,"superkingdom:Bacteria",0.053,44.13,6.38
+"Seagrass.metabat2.35.fa_sub.contigs","DAS",391,33.29,"",0,44.07,7.18
+"Seagrass.concoct.273.fa_sub.contigs","DAS",2766,55.17,"",0.046,44.05,5.2
+"Seagrass.concoct.64.fa_sub.contigs","DAS",843,57.48,"",0,44.02,10.9
+"Seagrass.metabat2.155.fa_sub.contigs","DAS",624,56.24,"",0.268,43.22,5.28
+"Seagrass.metabat2.16.fa_sub.contigs","DAS",258,38.31,"",0,42.89,0.44
+"Seagrass.metabat2.197.fa_sub.contigs","DAS",662,50.31,"",0.002,42.35,3.9
+"Seagrass.metabat2.100.fa_sub.contigs","DAS",758,67.74,"",0.119,41.73,0.73
+"Seagrass.concoct.283.fa_sub.contigs","DAS",1714,39.7,"superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Oceanospirillales;family:Halomonadaceae;no rank:Zymobacter group;genus:Candidatus Carsonella",0.085,41.41,8.62
+"Seagrass.metabat2.47.fa_sub.contigs","DAS",696,54.91,"",0.087,41.06,7.98
+"Seagrass.concoct.392.fa_sub.contigs","DAS",6918,48.53,"",0.007,40.46,26.08
+"Seagrass.concoct.275.fa_sub.contigs","DAS",1518,55.9,"",0.062,40.3,0.21
+"Seagrass.metabat2.349.fa_sub.contigs","DAS",559,49.05,"",0,40.09,3.81
+"Seagrass.metabat2.72.fa_sub.contigs","DAS",471,45.26,"superkingdom:Bacteria",0.013,39.91,2.25
+"Seagrass.concoct.347.fa_sub.contigs","DAS",2803,48.83,"superkingdom:Archaea;clade:TACK group;phylum:Thermoproteota;class:Thermoprotei;order:Thermofilales;family:Thermofilaceae;genus:Thermofilum|superkingdom:Bacteria|superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Bacteroidia;order:Bacteroidales|superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Bacteroidia;order:Marinilabiliales;family:Marinilabiliaceae|superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Bacteroidia;order:Marinilabiliales;family:Prolixibacteraceae;genus:Sunxiuqinia|superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Cytophagia;order:Cytophagales|superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Cytophagia;order:Cytophagales;family:Flammeovirgaceae|superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae|superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae;genus:Eudoraea|superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae;genus:Lutimonas|superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae;genus:Maribacter|superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae;genus:Muriicola|superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Saprospiria;order:Saprospirales;family:Haliscomenobacteraceae;genus:Haliscomenobacter|superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Saprospiria;order:Saprospirales;family:Saprospiraceae|superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Ignavibacteriota;class:Ignavibacteria;order:Ignavibacteriales;family:Ignavibacteriaceae|superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Ignavibacteriota;class:Ignavibacteria;order:Ignavibacteriales;family:Ignavibacteriaceae;genus:Ignavibacterium|superkingdom:Bacteria;clade:FCB group;phylum:Candidatus Hydrogenedentota;class:Candidatus Hydrogenedentia;order:Candidatus Hydrogenedentales;family:Candidatus Hydrogenedentaceae;genus:Candidatus Hydrogenedens|superkingdom:Bacteria;clade:PVC group;phylum:Chlamydiota;class:Chlamydiia;order:Parachlamydiales;family:Parachlamydiaceae;genus:Parachlamydia|superkingdom:Bacteria;clade:PVC group;phylum:Planctomycetota;class:Planctomycetia|superkingdom:Bacteria;clade:PVC group;phylum:Planctomycetota;class:Planctomycetia;order:Pirellulales;family:Pirellulaceae;genus:Blastopirellula|superkingdom:Bacteria;clade:PVC group;phylum:Planctomycetota;class:Planctomycetia;order:Pirellulales;family:Pirellulaceae;genus:Rhodopirellula|superkingdom:Bacteria;clade:PVC group;phylum:Planctomycetota;class:Planctomycetia;order:Planctomycetales;family:Planctomycetaceae|superkingdom:Bacteria;clade:PVC group;phylum:Planctomycetota;class:Planctomycetia;order:Planctomycetales;family:Planctomycetaceae;genus:Gimesia|superkingdom:Bacteria;clade:PVC group;phylum:Verrucomicrobiota;class:Opitutia;order:Opitutales;family:Opitutaceae|superkingdom:Bacteria;clade:PVC group;phylum:Verrucomicrobiota;class:Verrucomicrobiia;order:Verrucomicrobiales;family:Rubritaleaceae;genus:Rubritalea|superkingdom:Bacteria;clade:PVC group;phylum:Verrucomicrobiota;class:Verrucomicrobiia;order:Verrucomicrobiales;family:Verrucomicrobiaceae|superkingdom:Bacteria;clade:PVC group;phylum:Verrucomicrobiota;class:Verrucomicrobiia;order:Verrucomicrobiales;family:Verrucomicrobiaceae;genus:Luteolibacter|superkingdom:Bacteria;clade:PVC group;phylum:Verrucomicrobiota;class:Verrucomicrobiia;order:Verrucomicrobiales;family:Verrucomicrobiaceae;genus:Roseibacillus|superkingdom:Bacteria;clade:PVC group;phylum:Verrucomicrobiota;class:Verrucomicrobiia;order:Verrucomicrobiales;family:Verrucomicrobiaceae;genus:Verrucomicrobium|superkingdom:Bacteria;clade:Terrabacteria group;clade:Cyanobacteriota/Melainabacteria group;phylum:Candidatus Melainabacteria;class:Vampirovibriophyceae;order:Vampirovibrionales;genus:Vampirovibrio|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinomycetota;class:Acidimicrobiia;order:Acidimicrobiales|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinomycetota;class:Acidimicrobiia;order:Acidimicrobiales;family:Iamiaceae|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinomycetota;class:Acidimicrobiia;order:Acidimicrobiales;family:Iamiaceae;genus:Aquihabitans|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinomycetota;class:Acidimicrobiia;order:Acidimicrobiales;family:Ilumatobacteraceae;genus:Ilumatobacter|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinomycetota;class:Actinomycetes;order:Actinomycetales|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinomycetota;class:Actinomycetes;order:Micrococcales;family:Demequinaceae|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinomycetota;class:Actinomycetes;order:Micrococcales;family:Microbacteriaceae|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinomycetota;class:Thermoleophilia;order:Gaiellales;family:Gaiellaceae;genus:Gaiella|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinomycetota;class:Thermoleophilia;order:Solirubrobacterales;family:Conexibacteraceae;genus:Conexibacter|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Bacillota;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Pseudobacteroides|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Bacillota;class:Clostridia;order:Lachnospirales;family:Lachnospiraceae|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Bacillota;class:Clostridia;order:Lachnospirales;family:Vallitaleaceae;genus:Vallitalea|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae;genus:Pelolinea|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Caldilineae;order:Caldilineales;family:Caldilineaceae|superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Caldilineae;order:Caldilineales;family:Caldilineaceae;genus:Litorilinea|superkingdom:Bacteria;clade:delta/epsilon subdivisions;class:Deltaproteobacteria|superkingdom:Bacteria;phylum:Calditrichota;class:Calditrichia;order:Calditrichales;family:Calditrichaceae;genus:Caldithrix|superkingdom:Bacteria;phylum:Campylobacterota;class:Epsilonproteobacteria;order:Campylobacterales|superkingdom:Bacteria;phylum:Campylobacterota;class:Epsilonproteobacteria;order:Campylobacterales;family:Helicobacteraceae|superkingdom:Bacteria;phylum:Campylobacterota;class:Epsilonproteobacteria;order:Campylobacterales;family:Sulfurimonadaceae;genus:Sulfurimonas|superkingdom:Bacteria;phylum:Campylobacterota;class:Epsilonproteobacteria;order:Campylobacterales;family:Sulfurovaceae;genus:Sulfurovum|superkingdom:Bacteria;phylum:Cyanobacteria|superkingdom:Bacteria;phylum:Myxococcota;class:Myxococcia;order:Myxococcales|superkingdom:Bacteria;phylum:Pseudomonadota;class:Alphaproteobacteria|superkingdom:Bacteria;phylum:Pseudomonadota;class:Alphaproteobacteria;order:Geminicoccales;family:Geminicoccaceae;genus:Geminicoccus|superkingdom:Bacteria;phylum:Pseudomonadota;class:Alphaproteobacteria;order:Hyphomicrobiales;family:Hyphomicrobiaceae|superkingdom:Bacteria;phylum:Pseudomonadota;class:Alphaproteobacteria;order:Hyphomicrobiales;family:Hyphomicrobiaceae;genus:Methyloceanibacter|superkingdom:Bacteria;phylum:Pseudomonadota;class:Alphaproteobacteria;order:Hyphomicrobiales;family:Parvibaculaceae;genus:Anderseniella|superkingdom:Bacteria;phylum:Pseudomonadota;class:Alphaproteobacteria;order:Hyphomicrobiales;family:Phyllobacteriaceae|superkingdom:Bacteria;phylum:Pseudomonadota;class:Alphaproteobacteria;order:Rhodobacterales;family:Roseobacteraceae;genus:Tateyamaria|superkingdom:Bacteria;phylum:Pseudomonadota;class:Alphaproteobacteria;order:Rhodospirillales;family:Rhodospirillaceae|superkingdom:Bacteria;phylum:Pseudomonadota;class:Alphaproteobacteria;order:Sphingomonadales;family:Sphingomonadaceae|superkingdom:Bacteria;phylum:Pseudomonadota;class:Betaproteobacteria;order:Nitrosomonadales;family:Methylophilaceae|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Alteromonadales;family:Colwelliaceae;genus:Colwellia|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Alteromonadales;family:Psychromonadaceae;genus:Psychromonas|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Cellvibrionales;family:Halieaceae;genus:Haliea|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Chromatiales|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Chromatiales;family:Chromatiaceae|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Chromatiales;family:Chromatiaceae;genus:Halochromatium|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Chromatiales;family:Granulosicoccaceae;genus:Granulosicoccus|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Methylococcales;family:Methylococcaceae|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Oceanospirillales|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Thiotrichales;family:Thiotrichaceae;genus:Cocleimonas|superkingdom:Bacteria;phylum:Spirochaetota;class:Spirochaetia;order:Spirochaetales;family:Spirochaetaceae|superkingdom:Bacteria;phylum:Spirochaetota;class:Spirochaetia;order:Spirochaetales;family:Spirochaetaceae;genus:Salinispira|superkingdom:Bacteria;phylum:Spirochaetota;class:Spirochaetia;order:Spirochaetales;family:Spirochaetaceae;genus:Spirochaeta|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfatiglandales;family:Desulfatiglandaceae;genus:Desulfatiglans|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfobacteraceae|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfococcaceae;genus:Desulfonema|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobacteria;order:Desulfobacterales;family:Desulfosarcinaceae;genus:Desulfosarcina|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobulbia;order:Desulfobulbales;family:Desulfobulbaceae|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfobulbia;order:Desulfobulbales;family:Desulfobulbaceae;genus:Desulfobulbus|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfuromonadia;order:Desulfuromonadales|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfuromonadia;order:Desulfuromonadales;family:Desulfuromonadaceae|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfuromonadia;order:Desulfuromonadales;family:Desulfuromonadaceae;genus:Desulfuromonas|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Desulfuromonadia;order:Desulfuromonadales;family:Desulfuromonadaceae;genus:Pelobacter|superkingdom:Bacteria;phylum:Thermodesulfobacteriota;class:Dissulfuribacteria;order:Dissulfuribacterales;family:Dissulfuribacteraceae;genus:Dissulfuribacter|superkingdom:Eukaryota;clade:Sar;clade:Stramenopiles;clade:Ochrophyta;phylum:Bacillariophyta|superkingdom:Eukaryota;kingdom:Viridiplantae;phylum:Chlorophyta",0.009,39.75,5.35
+"Seagrass.metabat2.281.fa.contigs","DAS",533,55.87,"",0.002,39.66,0.17
+"Seagrass.concoct.306.fa_sub.contigs","DAS",1685,55.17,"",0.005,39.13,6.55
+"Seagrass.concoct.311.fa_sub.contigs","DAS",2042,60.38,"",0.149,39.01,6.54
+"Seagrass.concoct.362.fa_sub.contigs","DAS",668,38.48,"",0.002,38.7,5.33
+"Seagrass.concoct.27.fa_sub.contigs","DAS",2769,49.79,"superkingdom:Archaea;clade:TACK group;phylum:Nitrososphaerota;class:Nitrososphaeria;order:Nitrosopumilales;family:Nitrosopumilaceae;genus:Nitrosopumilus|superkingdom:Bacteria|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria|superkingdom:Bacteria;phylum:Pseudomonadota;class:Gammaproteobacteria;order:Chromatiales",0.22,38.53,4.77
+"Seagrass.concoct.295.fa_sub.contigs","DAS",1061,51.11,"",0.185,38.47,10.37
+"Seagrass.metabat2.77.fa_sub.contigs","DAS",1152,39.47,"",0.002,37.82,3.64
+"Seagrass.metabat2.111.fa_sub.contigs","DAS",773,66.73,"",0.025,37.43,4.53
+"Seagrass.metabat2.119.fa_sub.contigs","DAS",605,63.7,"",0,37.27,4.73
+"Seagrass.metabat2.414.fa.contigs","DAS",347,45.8,"superkingdom:Bacteria;clade:delta/epsilon subdivisions;class:Deltaproteobacteria",0,37.1,2.32
+"Seagrass.metabat2.368.fa_sub.contigs","DAS",407,63.74,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinomycetota;class:Thermoleophilia;order:Solirubrobacterales",0.11,36.93,0.29
+"Seagrass.concoct.137.fa_sub.contigs","DAS",1770,59.86,"",0.003,36.81,6.56
+"Seagrass.metabat2.269.fa_sub.contigs","DAS",227,47.85,"",0,36.26,3.91
+"Seagrass.metabat2.332.fa_sub.contigs","DAS",702,59.63,"",0,36.03,5.44
+"Seagrass.concoct.95.fa_sub.contigs","DAS",866,49.08,"",0.042,35.83,8.66
+"Seagrass.metabat2.11.fa_sub.contigs","DAS",239,40.69,"",0.01,35.81,0.22
+"Seagrass.concoct.177.fa_sub.contigs","DAS",685,49.04,"",0.003,35.76,5.34
+"Seagrass.metabat2.322.fa_sub.contigs","DAS",619,51.84,"",0.012,35.05,3.86
+"Seagrass.metabat2.358.fa_sub.contigs","DAS",369,61.31,"",0.017,34.77,2.04
+"Seagrass.metabat2.301.fa_sub.contigs","DAS",547,61.82,"",0.018,34.75,0.34
+"Seagrass.concoct.351.fa_sub.contigs","DAS",5560,50.96,"superkingdom:Bacteria",0.023,34.71,12.28
+"Seagrass.metabat2.310.fa_sub.contigs","DAS",538,58.81,"",0.028,34.48,6.51
+"Seagrass.metabat2.415.fa_sub.contigs","DAS",532,53,"",0,34.4,8.5
+"Seagrass.metabat2.63.fa_sub.contigs","DAS",458,63.26,"",0.012,34.09,2.8
+"Seagrass.metabat2.198.fa_sub.contigs","DAS",253,32.22,"",0.013,33.44,2.54
+"Seagrass.metabat2.53.fa.contigs","DAS",306,61.19,"",0.052,32.82,0.05
+"Seagrass.concoct.56.fa_sub.contigs","DAS",939,53.27,"",0.015,32.71,3.35
+"Seagrass.metabat2.389.fa_sub.contigs","DAS",193,44.35,"",0,32.64,5.18
+"Seagrass.metabat2.302.fa_sub.contigs","DAS",554,60.82,"",0.108,32.26,4.32
+"Seagrass.metabat2.405.fa_sub.contigs","DAS",339,54.89,"",0.04,32.2,0.35
+"Seagrass.metabat2.396.fa_sub.contigs","DAS",306,36.96,"",0.035,32.14,0.03
+"Seagrass.metabat2.88.fa_sub.contigs","DAS",178,38.92,"",0.112,32.14,0.01
+"Seagrass.metabat2.433.fa_sub.contigs","DAS",336,46.3,"",0,32.07,0.69
+"Seagrass.metabat2.227.fa_sub.contigs","DAS",341,36.05,"superkingdom:Archaea",0.043,31.86,1.05
+"Seagrass.metabat2.75.fa.contigs","DAS",105,51.12,"",0.01,31.83,0.04
+"Seagrass.metabat2.377.fa_sub.contigs","DAS",394,67.79,"",0.007,31.82,0.61
+"Seagrass.metabat2.283.fa_sub.contigs","DAS",372,56.37,"",0,31.48,3.9
+"Seagrass.metabat2.192.fa_sub.contigs","DAS",143,38.02,"",0.016,31.32,0.48
+"Seagrass.metabat2.21.fa.contigs","DAS",328,46.71,"",0.123,31.31,0.88
+"Seagrass.metabat2.319.fa_sub.contigs","DAS",633,57.02,"",0.013,31.1,1.27
+"Seagrass.metabat2.174.fa.contigs","DAS",478,68.04,"",0,31.09,1.1
+"Seagrass.concoct.226.fa_sub.contigs","DAS",686,55.1,"",0.195,30.71,3.38
+"Seagrass.metabat2.247.fa_sub.contigs","DAS",332,58.57,"",0,30.64,1
+"Seagrass.metabat2.235.fa_sub.contigs","DAS",377,35.47,"",0.016,29.68,0.53
+"Seagrass.metabat2.367.fa_sub.contigs","DAS",222,65.79,"",0.015,28.78,0.04
+"Seagrass.metabat2.311.fa.contigs","DAS",238,41.97,"",0.004,28.74,2.77
+"Seagrass.metabat2.241.fa.contigs","DAS",251,69.65,"",0.042,28.64,0.37
+"Seagrass.metabat2.416.fa_sub.contigs","DAS",382,58.54,"",0.037,28.57,0.63
+"Seagrass.metabat2.204.fa_sub.contigs","DAS",375,62.95,"",0.014,27.83,0.08
+"Seagrass.metabat2.397.fa.contigs","DAS",323,43.18,"",0.003,27.52,2.61
+"Seagrass.metabat2.224.fa_sub.contigs","DAS",105,63.21,"",0.042,27.31,0.61
+"Seagrass.metabat2.231.fa_sub.contigs","DAS",457,59.22,"",0,26.25,2.04
+"Seagrass.metabat2.148.fa_sub.contigs","DAS",234,62.71,"",0.149,25.98,1.92
+"Seagrass.metabat2.333.fa_sub.contigs","DAS",297,34.08,"",0.004,25.8,0.53
+"Seagrass.concoct.45.fa_sub.contigs","DAS",451,47.67,"",0.044,25.74,2.15
+"Seagrass.metabat2.67.fa_sub.contigs","DAS",458,64.29,"",0.198,25.7,1.73
+"Seagrass.metabat2.277.fa_sub.contigs","DAS",544,56.34,"",0.079,25.55,0.82
+"Seagrass.metabat2.32.fa_sub.contigs","DAS",398,47.49,"",0.003,24.69,1.49
+"Seagrass.concoct.13.fa_sub.contigs","DAS",1607,64.75,"",0.348,24.21,1.02
+"Seagrass.metabat2.123.fa_sub.contigs","DAS",339,69.07,"",0,24.21,2.17
+"Seagrass.metabat2.91.fa_sub.contigs","DAS",434,56.67,"",0.023,24.02,0.19
+"Seagrass.metabat2.398.fa_sub.contigs","DAS",256,64.43,"",0.023,23.49,0.17
+"Seagrass.metabat2.156.fa_sub.contigs","DAS",322,47.4,"",0.015,22.89,0.4
+"Seagrass.metabat2.36.fa_sub.contigs","DAS",301,61.52,"",0.011,22.79,0.77
+"Seagrass.metabat2.199.fa_sub.contigs","DAS",353,45.65,"",0,22.24,1.17
+"Seagrass.metabat2.336.fa_sub.contigs","DAS",374,63.02,"",0,22.01,0.66
+"Seagrass.metabat2.29.fa_sub.contigs","DAS",301,67.8,"",0.047,21.41,0.38
+"Seagrass.metabat2.18.fa_sub.contigs","DAS",381,67.13,"",0.005,21.31,0.41
+"Seagrass.metabat2.60.fa_sub.contigs","DAS",224,39.96,"",0.031,20.95,0.01
+"Seagrass.metabat2.42.fa_sub.contigs","DAS",199,50.11,"",0.01,20.78,0.09
+"Seagrass.concoct.62.fa_sub.contigs","DAS",619,46.37,"superkingdom:Bacteria",0.025,20.61,0.54
+"Seagrass.metabat2.143.fa_sub.contigs","DAS",259,47.42,"",0.005,20.6,1
+"Seagrass.metabat2.184.fa_sub.contigs","DAS",246,62.1,"superkingdom:Bacteria",0.137,20.54,0.01
+"Seagrass.metabat2.114.fa_sub.contigs","DAS",279,64.74,"",0.015,20.47,1.33
+"Seagrass.metabat2.8.fa_sub.contigs","DAS",221,50.67,"",0.055,20.19,0.12
+"Seagrass.metabat2.153.fa_sub.contigs","DAS",224,53.23,"",0.005,19.76,0.02
+"Seagrass.metabat2.144.fa_sub.contigs","DAS",211,62.55,"",0,19.59,0.02
+"Seagrass.metabat2.376.fa_sub.contigs","DAS",141,48.25,"",0,19.39,0.06
+"Seagrass.metabat2.3.fa_sub.contigs","DAS",238,57.45,"",0.109,19.39,0
+"Seagrass.concoct.40.fa_sub.contigs","DAS",113,55.17,"",0.079,19.36,0.25
+"Seagrass.metabat2.7.fa_sub.contigs","DAS",353,58.81,"",0.08,19.25,0.01
+"Seagrass.metabat2.307.fa_sub.contigs","DAS",381,57.82,"",0.065,18.55,0.33
+"Seagrass.metabat2.401.fa_sub.contigs","DAS",189,61.89,"",0.006,18.34,0.05
+"Seagrass.metabat2.129.fa_sub.contigs","DAS",117,37.45,"",0.124,18.29,0.15
+"Seagrass.metabat2.87.fa_sub.contigs","DAS",308,69.32,"",0.023,17.97,0.01
+"Seagrass.metabat2.240.fa_sub.contigs","DAS",190,57.4,"",0,16.7,0.03
+"Seagrass.metabat2.249.fa_sub.contigs","DAS",168,64.5,"",0.054,16.69,0.23
+"Seagrass.metabat2.328.fa_sub.contigs","DAS",323,56.52,"",0.01,16.49,0.21
+"Seagrass.metabat2.259.fa_sub.contigs","DAS",204,34.63,"superkingdom:Archaea",0.161,16.39,0.01
+"Seagrass.metabat2.419.fa_sub.contigs","DAS",327,65.2,"",0.047,15.94,0.77
+"Seagrass.metabat2.388.fa_sub.contigs","DAS",222,64.39,"",0.035,15.94,0
+"Seagrass.metabat2.121.fa_sub.contigs","DAS",109,43.25,"",0.037,15.73,0
+"Seagrass.concoct.245.fa_sub.contigs","DAS",648,55.71,"",0.028,15.68,2.84
+"Seagrass.metabat2.13.fa_sub.contigs","DAS",76,48.54,"",0.077,15.63,0.16
+"Seagrass.metabat2.209.fa_sub.contigs","DAS",221,46.93,"",0.05,15.08,0.98
+"Seagrass.metabat2.12.fa_sub.contigs","DAS",398,61.43,"",0.036,14.84,0.67
+"Seagrass.metabat2.41.fa_sub.contigs","DAS",101,64.24,"",0,14.17,0
+"Seagrass.metabat2.271.fa_sub.contigs","DAS",281,58.13,"",0.291,13.64,0.03
+"Seagrass.metabat2.338.fa_sub.contigs","DAS",220,63.29,"",0,13.42,0
+"Seagrass.metabat2.52.fa_sub.contigs","DAS",153,45.59,"",0,13.24,0.04
+"Seagrass.metabat2.149.fa_sub.contigs","DAS",159,65.77,"",0.02,13.23,0.01
+"Seagrass.metabat2.28.fa_sub.contigs","DAS",186,67.89,"",0.031,13.22,0
+"Seagrass.concoct.346.fa_sub.contigs","DAS",565,59.44,"",0.104,13.17,0.99
+"Seagrass.metabat2.228.fa.contigs","DAS",65,46.64,"",0,13.06,0.87
+"Seagrass.metabat2.258.fa_sub.contigs","DAS",123,67.7,"",0,13.01,0.79
+"Seagrass.metabat2.164.fa_sub.contigs","DAS",144,67.8,"",0,12.25,0.05
+"Seagrass.metabat2.316.fa_sub.contigs","DAS",196,37.39,"",0.024,11.87,0.02
+"Seagrass.metabat2.1.fa_sub.contigs","DAS",135,57.82,"",0.173,11.78,0
+"Seagrass.metabat2.54.fa_sub.contigs","DAS",227,56.59,"",0.174,11.48,0.08
+"Seagrass.metabat2.399.fa_sub.contigs","DAS",93,61.4,"",0.044,11.45,0.01
+"Seagrass.metabat2.278.fa_sub.contigs","DAS",140,69.82,"",0,11.37,0.06
+"Seagrass.metabat2.346.fa_sub.contigs","DAS",78,63.76,"",0.033,11.21,0
+"Seagrass.metabat2.98.fa_sub.contigs","DAS",110,60.13,"",0.038,10.93,0
+"Seagrass.metabat2.6.fa_sub.contigs","DAS",128,39.48,"",0.028,10.86,0.01
+"Seagrass.metabat2.294.fa.contigs","DAS",93,45.05,"",0,10.36,1.47
+"Seagrass.metabat2.289.fa_sub.contigs","DAS",246,47.2,"",0.004,10.18,0.52
+"Seagrass.metabat2.95.fa_sub.contigs","DAS",153,66.17,"",0.062,9.83,0.05
+"Seagrass.metabat2.324.fa_sub.contigs","DAS",119,65.79,"",0,9.71,0
+"Seagrass.metabat2.350.fa_sub.contigs","DAS",103,36.86,"",0,9.53,0
+"Seagrass.metabat2.251.fa_sub.contigs","DAS",49,47.15,"",0,9.3,0.03
+"Seagrass.metabat2.262.fa_sub.contigs","DAS",107,61.5,"",0,9.27,0.2
+"Seagrass.metabat2.426.fa_sub.contigs","DAS",165,53.8,"",0.08,9.23,0.03
+"Seagrass.metabat2.229.fa_sub.contigs","DAS",191,45,"",0.364,9.15,0.18
+"Seagrass.metabat2.299.fa_sub.contigs","DAS",118,64.67,"",0.031,9.11,0
+"Seagrass.metabat2.432.fa_sub.contigs","DAS",128,47.99,"",0.008,9.07,0.15
+"Seagrass.metabat2.288.fa.contigs","DAS",121,55.05,"",0,9.05,0
+"Seagrass.metabat2.298.fa_sub.contigs","DAS",68,40.06,"",0,9.02,0
+"Seagrass.metabat2.412.fa_sub.contigs","DAS",114,68.77,"",0.013,8.93,0
+"Seagrass.metabat2.226.fa_sub.contigs","DAS",134,63.77,"",0.075,8.88,0
+"Seagrass.metabat2.411.fa_sub.contigs","DAS",176,60.01,"",0.016,8.8,0.03
+"Seagrass.metabat2.292.fa_sub.contigs","DAS",109,55.02,"",0.132,8.51,0
+"Seagrass.metabat2.424.fa_sub.contigs","DAS",93,32.94,"",0.095,8.04,0.02
+"Seagrass.metabat2.290.fa_sub.contigs","DAS",83,45.81,"",0,7.77,0.02
+"Seagrass.metabat2.25.fa_sub.contigs","DAS",86,56.67,"superkingdom:Bacteria;clade:Terrabacteria group;phylum:Chloroflexota;class:Anaerolineae;order:Anaerolineales;family:Anaerolineaceae",0,7.74,0
+"Seagrass.metabat2.252.fa_sub.contigs","DAS",102,33.76,"superkingdom:Bacteria;clade:FCB group;clade:Bacteroidota/Chlorobiota group;phylum:Bacteroidota;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae",0.011,7.68,0
+"Seagrass.metabat2.403.fa_sub.contigs","DAS",51,56.87,"",0.024,7,0
+"Seagrass.metabat2.172.fa_sub.contigs","DAS",55,57.21,"",0.036,6.9,0.01
+"Seagrass.metabat2.147.fa_sub.contigs","DAS",69,43.09,"",0,6.81,0.03
+"Seagrass.metabat2.140.fa_sub.contigs","DAS",70,46.34,"",0,6.24,0
+"Seagrass.metabat2.105.fa_sub.contigs","DAS",55,62.55,"",0.048,5.67,0.14
+"Seagrass.metabat2.132.fa_sub.contigs","DAS",28,55.6,"",0.05,5.58,0
+"Seagrass.metabat2.420.fa_sub.contigs","DAS",34,59.58,"",0,5.28,0.02
+"Seagrass.metabat2.385.fa_sub.contigs","DAS",32,40.05,"",0.053,5.09,0
+"Seagrass.metabat2.40.fa_sub.contigs","DAS",31,41.13,"",0,5.08,0
+"Seagrass.metabat2.407.fa_sub.contigs","DAS",71,60.72,"",0.026,5.02,0
+"Seagrass.metabat2.50.fa_sub.contigs","DAS",45,56.01,"",0,4.95,0.17
+"Seagrass.metabat2.215.fa_sub.contigs","DAS",54,61.98,"",0,4.9,0
+"Seagrass.metabat2.384.fa_sub.contigs","DAS",51,56.57,"",0.13,4.89,0
+"Seagrass.metabat2.325.fa_sub.contigs","DAS",92,67.17,"",0.133,4.6,0
+"Seagrass.metabat2.286.fa_sub.contigs","DAS",64,48.84,"",0,4.33,0.04
+"Seagrass.metabat2.138.fa_sub.contigs","DAS",17,44.99,"",0.2,4.25,0
+"Seagrass.metabat2.10.fa_sub.contigs","DAS",27,51.67,"",0,4.22,0
+"Seagrass.metabat2.66.fa_sub.contigs","DAS",35,42.4,"",0,4.1,0
+"Seagrass.metabat2.101.fa_sub.contigs","DAS",37,59.32,"",0.043,3.63,0
+"Seagrass.metabat2.306.fa_sub.contigs","DAS",25,47.5,"",0,3.35,0
+"Seagrass.metabat2.177.fa_sub.contigs","DAS",12,52.33,"",0.25,3.32,0
+"Seagrass.metabat2.218.fa_sub.contigs","DAS",36,67.46,"",0,3.14,0
